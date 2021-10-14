@@ -1,0 +1,10 @@
+SAMARA BRANCH OF RADIO RESEARCH & DEVELOPMENT INSTITUTE. presents 
+
+= Progressive Organization POM
+
+== License
+
+Apache License, Version 2.0
+
+For full text see LICENSE.txt file or http://www.apache.org/licenses/LICENSE-2.0
+
